@@ -1,0 +1,82 @@
+[
+	{
+		"name": "Megapahit",
+		"disclosures": [
+			{
+				"label": "Behold!",
+				"text": "It's the Megapahit viewer."
+			}
+		]
+	},
+	{
+		"name": "Disclaimers",
+		"disclosures": [
+			{
+				"label": "3rd-party",
+				"text": "This software is not provided or supported by Linden Lab, the makers of Second Life."
+			},
+			{
+				"label": "Warranty",
+				"text": "This software is provided AS IS, without any expressed or implied warranty."
+			}
+		]
+	},
+	{
+		"name": "Limitations",
+		"disclosures": [
+			{
+				"label": "Voice",
+				"text": "We don't have the redistribution licence, but you could copy SLVoice, libortp.dylib, & libvivoxsdk.dylib from SL viewer's Resources folder to Megapahit's."
+			}
+
+		]
+	},
+	{
+		"name": "Policies",
+		"disclosures": [
+			{
+				"label": "Privacy",
+				"text": "The viewer sends data only to Second Life."
+			},
+			{
+				"label": "Accounts",
+				"text": "Our Bugzilla may require an account made, but you are not required to make any in order to use the viewer."
+			}
+		]
+	},
+	{
+		"name": "7.1.7.50381",
+		"disclosures": [
+			{
+				"label": "Maintenance-X",
+				"text": "Parity to SL viewer default release."
+			},
+			{
+				"label": "New looks!",
+				"text": "New skin and icons by Secret Foxtail."
+			}
+		]
+	},
+	{
+		"name": "7.1.6.50145",
+		"disclosures": [
+			{
+				"label": "NVIDIA VRAM detection",
+				"text": "Applies on FreeBSD & GNU/Linux distros, with anticipation for proprietary AMD drivers too."
+			}
+		]
+	},
+	{
+		"name": "7.1.6.50139",
+		"disclosures": [
+			{
+				"label": "Maintenance-YZ",
+				"text": "Parity to SL viewer default release."
+			},
+			{
+				"label": "Distro upgrades",
+				"text": "The FreeBSD package is now for version 14.0, the Ubuntu package is now for 24.04 LTS (Noble Numbat), and the Fedora package is now for version 40."
+			}
+		]
+	}
+]
