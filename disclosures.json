@@ -53,7 +53,7 @@
 			},
 			{
 				"label": "Bug fixes and improvements",
-				"text": "Credentials are now saved, texture blurring/thrashing is reduced significantly on macOS, FPS counter, and other improvements in performance and experience."
+				"text": "Credentials are now saved, texture blurring/thrashing is reduced significantly on macOS, FPS counter, adjusted rear view offset, accordions for credits, and other improvements in performance."
 			}
 		]
 	},
