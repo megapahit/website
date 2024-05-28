@@ -45,6 +45,19 @@
 		]
 	},
 	{
+		"name": "7.1.7.50421",
+		"disclosures": [
+			{
+				"label": "Yet new logo!",
+				"text": "The theme is thalassocracy, hence the Jolly Roger logo."
+			},
+			{
+				"label": "Bug fixes and improvements",
+				"text": "Credentials are now saved, texture blurring/thrashing is reduced significantly on macOS, FPS counter, and other improvements in performance and experience."
+			}
+		]
+	},
+	{
 		"name": "7.1.7.50381",
 		"disclosures": [
 			{
@@ -63,19 +76,6 @@
 			{
 				"label": "NVIDIA VRAM detection",
 				"text": "Applies on FreeBSD & GNU/Linux distros, with anticipation for proprietary AMD drivers too."
-			}
-		]
-	},
-	{
-		"name": "7.1.6.50139",
-		"disclosures": [
-			{
-				"label": "Maintenance-YZ",
-				"text": "Parity to SL viewer default release."
-			},
-			{
-				"label": "Distro upgrades",
-				"text": "The FreeBSD package is now for version 14.0, the Ubuntu package is now for 24.04 LTS (Noble Numbat), and the Fedora package is now for version 40."
 			}
 		]
 	}
