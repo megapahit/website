@@ -48,12 +48,12 @@
 		"name": "7.1.7.50421",
 		"disclosures": [
 			{
-				"label": "Yet new logo!",
-				"text": "The theme is thalassocracy, hence the Jolly Roger logo."
+				"label": "Yet a new logo!",
+				"text": "Thalassocracy is the theme, hence the Jolly Roger logo. By Secret Foxtail."
 			},
 			{
 				"label": "Bug fixes and improvements",
-				"text": "Credentials are now saved, texture blurring/thrashing is reduced significantly on macOS, FPS counter, adjusted rear view offset, accordions for credits, and other improvements in performance."
+				"text": "Credentials are now saved. Texture blurring/thrashing is reduced significantly on macOS, FPS counter & other improvements in performance by observeur Resident. Adjusted rear view offset & accordions for credits by Secret Foxtail."
 			}
 		]
 	},
