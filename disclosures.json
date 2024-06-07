@@ -26,7 +26,7 @@
 		"disclosures": [
 			{
 				"label": "Voice",
-				"text": "We don't have the redistribution licence, but you could copy SLVoice, libortp.dylib, & libvivoxsdk.dylib from SL viewer's Resources folder to Megapahit's."
+				"text": "We don't have the redistribution licence, but you could copy SLVoice or SLVoice.exe, libortp.dylib or ortp_x64.dll, and libvivoxsdk.dylib or vivoxsdk_x64.dll from SL viewer's Resources folder to Megapahit's Resources or libexec folder."
 			}
 
 		]
@@ -41,6 +41,19 @@
 			{
 				"label": "Accounts",
 				"text": "Our Bugzilla may require an account made, but you are not required to make any in order to use the viewer."
+			}
+		]
+	},
+	{
+		"name": "7.1.7.50450",
+		"disclosures": [
+			{
+				"label": "Bug fixes",
+				"text": "On GNU/Linux and FreeBSD, group and offline messaging are fixed, and voice may now work using Wine. On macOS, the counter used for the fast timers is improved."
+			},
+			{
+				"label": "Skin",
+				"text": "Miscellaneous tweaks."
 			}
 		]
 	},
@@ -67,15 +80,6 @@
 			{
 				"label": "New looks!",
 				"text": "New skin and icons by Secret Foxtail."
-			}
-		]
-	},
-	{
-		"name": "7.1.6.50145",
-		"disclosures": [
-			{
-				"label": "NVIDIA VRAM detection",
-				"text": "Applies on FreeBSD & GNU/Linux distros, with anticipation for proprietary AMD drivers too."
 			}
 		]
 	}
