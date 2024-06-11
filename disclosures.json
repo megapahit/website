@@ -45,6 +45,19 @@
 		]
 	},
 	{
+		"name": "7.1.8.50890",
+		"disclosures": [
+			{
+				"label": "Materials Featurettes",
+				"text": "Parity to SL viewer default release."
+			},
+			{
+				"label": "Improvements",
+				"text": "A less laggier tracker beacon and a pixelated Jolly Roger logo."
+			}
+		]
+	},
+	{
 		"name": "7.1.7.50450",
 		"disclosures": [
 			{
@@ -67,19 +80,6 @@
 			{
 				"label": "Bug fixes and improvements",
 				"text": "Credentials are now saved. Texture blurring/thrashing is reduced significantly on macOS, FPS counter & other improvements in performance by observeur Resident. Adjusted rear view offset & accordions for credits by Secret Foxtail."
-			}
-		]
-	},
-	{
-		"name": "7.1.7.50381",
-		"disclosures": [
-			{
-				"label": "Maintenance-X",
-				"text": "Parity to SL viewer default release."
-			},
-			{
-				"label": "New looks!",
-				"text": "New skin and icons by Secret Foxtail."
 			}
 		]
 	}
