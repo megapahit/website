@@ -26,9 +26,8 @@
 		"disclosures": [
 			{
 				"label": "Voice",
-				"text": "We don't have the redistribution licence, but you could copy SLVoice or SLVoice.exe, libortp.dylib or ortp_x64.dll, and libvivoxsdk.dylib or vivoxsdk_x64.dll from SL viewer's Resources folder to Megapahit's Resources or libexec folder."
+				"text": "We don't have the redistribution licence, but you could copy SLVoice or SLVoice.exe, libortp.dylib or ortp_x64.dll, and libvivoxsdk.dylib or vivoxsdk_x64.dll from SL viewer's Resources folder to Megapahit's Resources or libexec folder. But on macOS, don't copy the files before you launch the app for the first time, otherwise GateKeeper would consider the app tampered after failing to verify its integrity."
 			}
-
 		]
 	},
 	{
