@@ -49,7 +49,7 @@
 		"disclosures": [
 			{
 				"label": "Materials Featurettes",
-				"text": "Parity to SL viewer default release."
+				"text": "Parity to SL viewer Default release."
 			},
 			{
 				"label": "Improvements",
@@ -58,28 +58,15 @@
 		]
 	},
 	{
-		"name": "7.1.7.50450",
+		"name": "7.1.9.51085",
 		"disclosures": [
 			{
-				"label": "Bug fixes",
-				"text": "On GNU/Linux and FreeBSD, group and offline messaging are fixed, and voice may now work using Wine. On macOS, the counter used for the fast timers is improved."
+				"label": "Maintenance-B",
+				"text": "Parity to SL viewer Maintenance-B release."
 			},
 			{
-				"label": "Skin",
-				"text": "Miscellaneous tweaks."
-			}
-		]
-	},
-	{
-		"name": "7.1.7.50421",
-		"disclosures": [
-			{
-				"label": "Yet a new logo!",
-				"text": "Thalassocracy is the theme, hence the Jolly Roger logo. By Secret Foxtail."
-			},
-			{
-				"label": "Bug fixes and improvements",
-				"text": "Credentials are now saved. Texture blurring/thrashing is reduced significantly on macOS, FPS counter & other improvements in performance by observeur Resident. Adjusted rear view offset & accordions for credits by Secret Foxtail."
+				"label": "Changes, features and bug fixes",
+				"text": "The use of FMOD Studio, web-based UI takes keyboard input now, lower energy use when in background, Teleport To function, HiDPI works and the Low graphics setting won't lower FPS now on macOS, browser on Fedora now works, etc."
 			}
 		]
 	}
