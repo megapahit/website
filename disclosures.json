@@ -42,31 +42,5 @@
 				"text": "Our Bugzilla may require an account made, but you are not required to make any in order to use the viewer."
 			}
 		]
-	},
-	{
-		"name": "7.1.8.50941",
-		"disclosures": [
-			{
-				"label": "Performance improvements",
-				"text": "Faster Zoom In, and especially Apple GPU and vertex buffer optimisations, by observeur."
-			},
-			{
-				"label": "Bug fixes",
-				"text": "The macOS bug fixes that were introduced in 7.1.9.51085 are now here too."
-			}
-		]
-	},
-	{
-		"name": "7.1.9.51118",
-		"disclosures": [
-			{
-				"label": "Bug fixes",
-				"text": "The bug fixes especially for GNU/Linux that were introduced in 7.1.9.51085 are still only here."
-			},
-			{
-				"label": "Other differences",
-				"text": "Apart from the improvements found in 7.1.8.50941, this release includes updates from the SL viewer Maintenance B."
-			}
-		]
 	}
 ]
