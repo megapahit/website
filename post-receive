@@ -2,13 +2,13 @@
 
 product=web
 repo=/usr/local/git/pub/$product.git
-web=$HOME/public_html
-#web=~www/apache24/data
+#web=$HOME/public_html
+web=~www/apache24/data
 
 unset GIT_DIR
 cd $HOME/$product \
 	&& git pull \
 	&& git --git-dir=$repo --work-tree=$web checkout -f master -- \
 		index.html \
-		7.1.10.52662.html \
+		7.1.11.53043.html \
 	&& git --git-dir=$repo push
