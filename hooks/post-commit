@@ -1,0 +1,12 @@
+#!/bin/sh
+
+pass=0
+cd $PWD \
+	&& scp hooks/post-receive \
+		megapahit.net:/usr/local/git/pub/website.git/hooks/ \
+	&& pass=1
+
+if [ $pass = 0 ]
+then
+	exit 1
+fi
