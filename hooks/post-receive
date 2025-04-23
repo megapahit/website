@@ -11,4 +11,5 @@ cd $HOME/$product \
 		index.html \
 		7.1.13.53452.html \
 		7.1.13.53573.html \
+		7.1.13.53691.html \
 	&& git --git-dir=$repo push -f
