@@ -10,4 +10,5 @@ cd $HOME/$product \
 	&& git --git-dir=$repo --work-tree=$web checkout -f master -- \
 		index.html \
 		7.1.13.53452.html \
+		7.1.13.53573.html \
 	&& git --git-dir=$repo push -f
