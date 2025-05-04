@@ -1,16 +1,12 @@
 #!/bin/sh
 
-project=Megapahit
 product=website
 repo=/usr/local/git/pub/$product.git
 web=~www/apache24/data
 
-unset GIT_DIR
-cd $HOME/Documents/$project/$product \
-	&& git pull \
-	&& git --git-dir=$repo --work-tree=$web checkout -f master -- \
+git --git-dir=$repo --work-tree=$web checkout -f master -- \
 		index.html \
 		7.1.13.53452.html \
 		7.1.14.53615.html \
-		7.1.13.53691.html \
+		7.1.13.53713.html \
 	&& git --git-dir=$repo push -f
