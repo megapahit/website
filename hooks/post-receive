@@ -7,5 +7,5 @@ web=~www/apache24/data
 git --git-dir=$repo --work-tree=$web checkout -f master -- \
 		index.html \
 		7.2.1.54496.html \
-		7.2.2.54566.html \
+		7.2.2.54702.html \
 	&& git --git-dir=$repo push -f
